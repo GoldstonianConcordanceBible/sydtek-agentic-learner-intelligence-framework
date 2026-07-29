@@ -48,19 +48,10 @@ The scholarly research network represented in this register includes:
 
 - Justin Goldston, PhD
 - Justyna Osowska
-- V. S. Anoop
-- S. Asharaf
-- Timothy Chaffer
-- Michael George
-- Christopher von Goins II
-- Bosun Okusanya
-- Donna Cotlage
-- E. Jones
+- Dontrail Cotlage
 - Gemach D.A.T.A. I
-- GDAT AI
-- MG DAO
 - Gemach AI research systems and contributors
-
+- The research team at The Goldstonian Concordance Bible
 ---
 
 # Publication Classification Standard

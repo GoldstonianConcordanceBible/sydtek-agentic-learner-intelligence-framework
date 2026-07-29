@@ -142,14 +142,6 @@ The publication is relevant to:
 **AI Co-Author:** Gemach D.A.T.A. I  
 **Reported Google Scholar Citations:** 1
 
-### Alternate Authorship Record
-
-A supplied bibliographic record also attributes the work to:
-
-**Goldston, J., & MG DAO**
-
-The final canonical record should be reconciled against the original publication and repository metadata before formal citation.
-
 ### Research Contribution
 
 The AI-Augmented Neuroplasticity Theory framework examines how AI-assisted learning, feedback, cognition, and adaptive systems may support resilience, innovation, and continuing human development.
@@ -169,14 +161,14 @@ The framework is relevant to:
 
 ## Goldstonian Concordance Bible
 
-### Goldston, J., & GDAT AI
+### Goldston, J., & Gemach D.A.T.A. I
 
 **Title:** The Goldstonian Concordance Bible  
 **Publisher or Repository:** Zenodo  
 **Year:** 2026  
 **Publication Type:** Research Repository Publication  
 **Research Domain:** Biblical Scholarship, Knowledge Provenance, AI-Assisted Concordance Research, and Digital Humanities  
-**AI Co-Author:** GDAT AI
+**AI Co-Author:** Gemach D.A.T.A. I
 
 ### Research Contribution
 

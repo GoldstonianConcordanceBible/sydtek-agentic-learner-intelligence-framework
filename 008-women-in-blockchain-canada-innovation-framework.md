@@ -1,4 +1,4 @@
-# Women in Blockchain Canada Innovation Framework
+# SydTek University Innovation Framework
 
 ## Inclusive Leadership, Research, Education, and Responsible Technology Development
 

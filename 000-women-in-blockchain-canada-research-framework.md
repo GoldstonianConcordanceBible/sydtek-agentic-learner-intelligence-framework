@@ -1,4 +1,4 @@
-# Women in Blockchain Canada Research Framework
+# SydTek University Research Framework
 
 ## Repository Charter
 
@@ -6,7 +6,7 @@
 
 ## Purpose
 
-The Women in Blockchain Canada Research Framework serves as the canonical research repository for responsible artificial intelligence, blockchain, Web4, digital governance, and public-interest innovation initiatives developed through Women in Blockchain Canada.
+SydTek University Research Framework serves as the canonical research repository for responsible artificial intelligence, blockchain, Web4, digital governance, and public-interest innovation initiatives developed through Women in Blockchain Canada.
 
 The repository is designed to organize research outputs into structured, version-controlled, and machine-readable artifacts suitable for scholarly publication, GitHub collaboration, Zenodo archival, Figshare datasets, and long-term knowledge preservation.
 

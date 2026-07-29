@@ -264,14 +264,6 @@ The Bit.Country case study provides an applied context for evaluating the relati
 **Research Domain:** Prompt Engineering, Generative AI, Human–AI Interaction, and AI Literacy  
 **Reported Google Scholar Citations:** 1
 
-### Alternate Authorship Record
-
-A supplied bibliographic record also attributes the work to:
-
-**Goldston, J.**
-
-The final canonical authorship record should be reconciled against the original publication metadata.
-
 ### Research Contribution
 
 The publication provides a structured introduction to prompt engineering and the design of effective human–AI interactions.

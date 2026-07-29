@@ -46,8 +46,8 @@ Google Scholar citation counts are recorded as supplied for the July 2026 reposi
 
 The scholarly research network represented in this register includes:
 
-- Justin Goldston, PhD
 - Justyna Osowska
+- Justin Goldston, PhD
 - Dontrail Cotlage
 - Gemach D.A.T.A. I
 - Gemach AI research systems and contributors
